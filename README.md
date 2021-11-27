@@ -16,7 +16,7 @@ We suggest the following **submission template**:
 
 #### Project name
 
-Name of your project
+EchOlab
 
 #### Project description
 
@@ -24,9 +24,8 @@ A short description of what makes your project unique !
 
 #### Team members
 
-* Ada Lovelace
-* Claude Shannon
-* Stephen Hawking
+* Gireg Roussel
+* Marine Charra
 
 #### Preprocessing and training methods
 
