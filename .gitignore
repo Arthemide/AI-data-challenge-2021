@@ -3,3 +3,5 @@ avatars_echOvid_train_X.csv
 avatars_echOvid_test_X.csv
 
 result.csv
+
+__pycache__
